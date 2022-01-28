@@ -14,7 +14,6 @@ namespace PeriodicTableAPI.Controllers
         public string Get()
         {
             return System.IO.File.ReadAllText("data/elements.json");
-            //return new string[] { "value1", "value2" };
         }
     }
 }
