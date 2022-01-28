@@ -20,9 +20,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": 1766,
     "block": "s",
-    "cpkHexColor": "FFFFFF",
+    "cpkHexColor": "#FFFFFF",
     "period": 1,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 1
   },
   {
     "atomicNumber": 2,
@@ -45,9 +47,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1868,
     "block": "p",
-    "cpkHexColor": "D9FFFF",
+    "cpkHexColor": "#D9FFFF",
     "period": 1,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 1
   },
   {
     "atomicNumber": 3,
@@ -70,9 +74,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1817,
     "block": "s",
-    "cpkHexColor": "CC80FF",
+    "cpkHexColor": "#CC80FF",
     "period": 2,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 2
   },
   {
     "atomicNumber": 4,
@@ -95,9 +101,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": 1798,
     "block": "s",
-    "cpkHexColor": "C2FF00",
+    "cpkHexColor": "#C2FF00",
     "period": 2,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 2
   },
   {
     "atomicNumber": 5,
@@ -120,9 +128,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": 1807,
     "block": "p",
-    "cpkHexColor": "FFB5B5",
+    "cpkHexColor": "#FFB5B5",
     "period": 2,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 2
   },
   {
     "atomicNumber": 6,
@@ -145,9 +155,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "909090",
+    "cpkHexColor": "#909090",
     "period": 2,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 2
   },
   {
     "atomicNumber": 7,
@@ -170,9 +182,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": 1772,
     "block": "p",
-    "cpkHexColor": "3050F8",
+    "cpkHexColor": "#3050F8",
     "period": 2,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 2
   },
   {
     "atomicNumber": 8,
@@ -195,9 +209,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": 1774,
     "block": "p",
-    "cpkHexColor": "FF0D0D",
+    "cpkHexColor": "#FF0D0D",
     "period": 2,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 2
   },
   {
     "atomicNumber": 9,
@@ -220,9 +236,11 @@
     "groupBlock": "halogen",
     "yearDiscovered": 1670,
     "block": "p",
-    "cpkHexColor": "9eaf51",
+    "cpkHexColor": "#9eaf51",
     "period": 2,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 2
   },
   {
     "atomicNumber": 10,
@@ -245,9 +263,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1898,
     "block": "p",
-    "cpkHexColor": "B3E3F5",
+    "cpkHexColor": "#B3E3F5",
     "period": 2,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 2
   },
   {
     "atomicNumber": 11,
@@ -270,9 +290,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1807,
     "block": "s",
-    "cpkHexColor": "AB5CF2",
+    "cpkHexColor": "#AB5CF2",
     "period": 3,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 3
   },
   {
     "atomicNumber": 12,
@@ -295,9 +317,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": 1808,
     "block": "s",
-    "cpkHexColor": "8AFF00",
+    "cpkHexColor": "#8AFF00",
     "period": 3,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 3
   },
   {
     "atomicNumber": 13,
@@ -320,9 +344,11 @@
     "groupBlock": "metal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "BFA6A6",
+    "cpkHexColor": "#BFA6A6",
     "period": 3,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 3
   },
   {
     "atomicNumber": 14,
@@ -345,9 +371,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": 1854,
     "block": "p",
-    "cpkHexColor": "F0C8A0",
+    "cpkHexColor": "#F0C8A0",
     "period": 3,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 3
   },
   {
     "atomicNumber": 15,
@@ -370,9 +398,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": 1669,
     "block": "p",
-    "cpkHexColor": "FF8000",
+    "cpkHexColor": "#FF8000",
     "period": 3,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 3
   },
   {
     "atomicNumber": 16,
@@ -395,9 +425,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "FFFF30",
+    "cpkHexColor": "#FFFF30",
     "period": 3,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 3
   },
   {
     "atomicNumber": 17,
@@ -420,9 +452,11 @@
     "groupBlock": "halogen",
     "yearDiscovered": 1774,
     "block": "p",
-    "cpkHexColor": "1FF01F",
+    "cpkHexColor": "#1FF01F",
     "period": 3,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 3
   },
   {
     "atomicNumber": 18,
@@ -445,9 +479,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1894,
     "block": "p",
-    "cpkHexColor": "80D1E3",
+    "cpkHexColor": "#80D1E3",
     "period": 3,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 3
   },
   {
     "atomicNumber": 19,
@@ -470,9 +506,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1807,
     "block": "s",
-    "cpkHexColor": "8F40D4",
+    "cpkHexColor": "#8F40D4",
     "period": 4,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 4
   },
   {
     "atomicNumber": 20,
@@ -495,9 +533,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": "Ancient",
     "block": "s",
-    "cpkHexColor": "3DFF00",
+    "cpkHexColor": "#3DFF00",
     "period": 4,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 4
   },
   {
     "atomicNumber": 21,
@@ -520,9 +560,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1876,
     "block": "d",
-    "cpkHexColor": "E6E6E6",
+    "cpkHexColor": "#E6E6E6",
     "period": 4,
-    "group": 3
+    "group": 3,
+    "x": 3,
+    "y": 4
   },
   {
     "atomicNumber": 22,
@@ -545,9 +587,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1791,
     "block": "d",
-    "cpkHexColor": "BFC2C7",
+    "cpkHexColor": "#BFC2C7",
     "period": 4,
-    "group": 4
+    "group": 4,
+    "x": 4,
+    "y": 4
   },
   {
     "atomicNumber": 23,
@@ -570,9 +614,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1803,
     "block": "d",
-    "cpkHexColor": "A6A6AB",
+    "cpkHexColor": "#A6A6AB",
     "period": 4,
-    "group": 5
+    "group": 5,
+    "x": 5,
+    "y": 4
   },
   {
     "atomicNumber": 24,
@@ -595,9 +641,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "8A99C7",
+    "cpkHexColor": "#8A99C7",
     "period": 4,
-    "group": 6
+    "group": 6,
+    "x": 6,
+    "y": 4
   },
   {
     "atomicNumber": 25,
@@ -620,9 +668,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1774,
     "block": "d",
-    "cpkHexColor": "9C7AC7",
+    "cpkHexColor": "#9C7AC7",
     "period": 4,
-    "group": 7
+    "group": 7,
+    "x": 7,
+    "y": 4
   },
   {
     "atomicNumber": 26,
@@ -645,9 +695,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "E06633",
+    "cpkHexColor": "#E06633",
     "period": 4,
-    "group": 8
+    "group": 8,
+    "x": 8,
+    "y": 4
   },
   {
     "atomicNumber": 27,
@@ -670,9 +722,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "F090A0",
+    "cpkHexColor": "#F090A0",
     "period": 4,
-    "group": 9
+    "group": 9,
+    "x": 9,
+    "y": 4
   },
   {
     "atomicNumber": 28,
@@ -695,9 +749,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1751,
     "block": "d",
-    "cpkHexColor": "50D050",
+    "cpkHexColor": "#50D050",
     "period": 4,
-    "group": 10
+    "group": 10,
+    "x": 10,
+    "y": 4
   },
   {
     "atomicNumber": 29,
@@ -720,9 +776,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "C88033",
+    "cpkHexColor": "#C88033",
     "period": 4,
-    "group": 11
+    "group": 11,
+    "x": 11,
+    "y": 4
   },
   {
     "atomicNumber": 30,
@@ -745,9 +803,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1746,
     "block": "d",
-    "cpkHexColor": "7D80B0",
+    "cpkHexColor": "#7D80B0",
     "period": 4,
-    "group": 12
+    "group": 12,
+    "x": 12,
+    "y": 4
   },
   {
     "atomicNumber": 31,
@@ -770,9 +830,11 @@
     "groupBlock": "metal",
     "yearDiscovered": 1875,
     "block": "p",
-    "cpkHexColor": "C28F8F",
+    "cpkHexColor": "#C28F8F",
     "period": 4,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 4
   },
   {
     "atomicNumber": 32,
@@ -795,9 +857,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": 1886,
     "block": "p",
-    "cpkHexColor": "668F8F",
+    "cpkHexColor": "#668F8F",
     "period": 4,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 4
   },
   {
     "atomicNumber": 33,
@@ -820,9 +884,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "BD80E3",
+    "cpkHexColor": "#BD80E3",
     "period": 4,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 4
   },
   {
     "atomicNumber": 34,
@@ -845,9 +911,11 @@
     "groupBlock": "nonmetal",
     "yearDiscovered": 1817,
     "block": "p",
-    "cpkHexColor": "FFA100",
+    "cpkHexColor": "#FFA100",
     "period": 4,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 4
   },
   {
     "atomicNumber": 35,
@@ -870,9 +938,11 @@
     "groupBlock": "halogen",
     "yearDiscovered": 1826,
     "block": "p",
-    "cpkHexColor": "A62929",
+    "cpkHexColor": "#A62929",
     "period": 4,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 4
   },
   {
     "atomicNumber": 36,
@@ -895,9 +965,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1898,
     "block": "p",
-    "cpkHexColor": "5CB8D1",
+    "cpkHexColor": "#5CB8D1",
     "period": 4,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 4
   },
   {
     "atomicNumber": 37,
@@ -920,9 +992,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1861,
     "block": "s",
-    "cpkHexColor": "702EB0",
+    "cpkHexColor": "#702EB0",
     "period": 5,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 5
   },
   {
     "atomicNumber": 38,
@@ -945,9 +1019,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": 1790,
     "block": "s",
-    "cpkHexColor": "00FF00",
+    "cpkHexColor": "#00FF00",
     "period": 5,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 5
   },
   {
     "atomicNumber": 39,
@@ -970,9 +1046,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1794,
     "block": "d",
-    "cpkHexColor": "94FFFF",
+    "cpkHexColor": "#94FFFF",
     "period": 5,
-    "group": 3
+    "group": 3,
+    "x": 3,
+    "y": 5
   },
   {
     "atomicNumber": 40,
@@ -995,9 +1073,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1789,
     "block": "d",
-    "cpkHexColor": "94E0E0",
+    "cpkHexColor": "#94E0E0",
     "period": 5,
-    "group": 4
+    "group": 4,
+    "x": 4,
+    "y": 5
   },
   {
     "atomicNumber": 41,
@@ -1020,9 +1100,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1801,
     "block": "d",
-    "cpkHexColor": "73C2C9",
+    "cpkHexColor": "#73C2C9",
     "period": 5,
-    "group": 5
+    "group": 5,
+    "x": 5,
+    "y": 5
   },
   {
     "atomicNumber": 42,
@@ -1045,9 +1127,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1778,
     "block": "d",
-    "cpkHexColor": "54B5B5",
+    "cpkHexColor": "#54B5B5",
     "period": 5,
-    "group": 6
+    "group": 6,
+    "x": 6,
+    "y": 5
   },
   {
     "atomicNumber": 43,
@@ -1070,9 +1154,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1937,
     "block": "d",
-    "cpkHexColor": "3B9E9E",
+    "cpkHexColor": "#3B9E9E",
     "period": 5,
-    "group": 7
+    "group": 7,
+    "x": 7,
+    "y": 5
   },
   {
     "atomicNumber": 44,
@@ -1095,9 +1181,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1827,
     "block": "d",
-    "cpkHexColor": "248F8F",
+    "cpkHexColor": "#248F8F",
     "period": 5,
-    "group": 8
+    "group": 8,
+    "x": 8,
+    "y": 5
   },
   {
     "atomicNumber": 45,
@@ -1120,9 +1208,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1803,
     "block": "d",
-    "cpkHexColor": "0A7D8C",
+    "cpkHexColor": "#0A7D8C",
     "period": 5,
-    "group": 9
+    "group": 9,
+    "x": 9,
+    "y": 5
   },
   {
     "atomicNumber": 46,
@@ -1145,9 +1235,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1803,
     "block": "d",
-    "cpkHexColor": "6985",
+    "cpkHexColor": "#6985",
     "period": 5,
-    "group": 10
+    "group": 10,
+    "x": 10,
+    "y": 5
   },
   {
     "atomicNumber": 47,
@@ -1170,9 +1262,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "C0C0C0",
+    "cpkHexColor": "#C0C0C0",
     "period": 5,
-    "group": 11
+    "group": 11,
+    "x": 11,
+    "y": 5
   },
   {
     "atomicNumber": 48,
@@ -1195,9 +1289,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1817,
     "block": "d",
-    "cpkHexColor": "FFD98F",
+    "cpkHexColor": "#FFD98F",
     "period": 5,
-    "group": 12
+    "group": 12,
+    "x": 12,
+    "y": 5
   },
   {
     "atomicNumber": 49,
@@ -1220,9 +1316,11 @@
     "groupBlock": "metal",
     "yearDiscovered": 1863,
     "block": "p",
-    "cpkHexColor": "A67573",
+    "cpkHexColor": "#A67573",
     "period": 5,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 5
   },
   {
     "atomicNumber": 50,
@@ -1245,9 +1343,11 @@
     "groupBlock": "metal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "668080",
+    "cpkHexColor": "#668080",
     "period": 5,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 5
   },
   {
     "atomicNumber": 51,
@@ -1270,9 +1370,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "9E63B5",
+    "cpkHexColor": "#9E63B5",
     "period": 5,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 5
   },
   {
     "atomicNumber": 52,
@@ -1295,9 +1397,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": 1782,
     "block": "p",
-    "cpkHexColor": "D47A00",
+    "cpkHexColor": "#D47A00",
     "period": 5,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 5
   },
   {
     "atomicNumber": 53,
@@ -1320,9 +1424,11 @@
     "groupBlock": "halogen",
     "yearDiscovered": 1811,
     "block": "p",
-    "cpkHexColor": "940094",
+    "cpkHexColor": "#940094",
     "period": 5,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 5
   },
   {
     "atomicNumber": 54,
@@ -1345,9 +1451,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1898,
     "block": "p",
-    "cpkHexColor": "429EB0",
+    "cpkHexColor": "#429EB0",
     "period": 5,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 5
   },
   {
     "atomicNumber": 55,
@@ -1370,9 +1478,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1860,
     "block": "s",
-    "cpkHexColor": "57178F",
+    "cpkHexColor": "#57178F",
     "period": 6,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 6
   },
   {
     "atomicNumber": 56,
@@ -1395,9 +1505,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": 1808,
     "block": "s",
-    "cpkHexColor": "00C900",
+    "cpkHexColor": "#00C900",
     "period": 6,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 6
   },
   {
     "atomicNumber": 57,
@@ -1420,9 +1532,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1839,
     "block": "f",
-    "cpkHexColor": "70D4FF",
+    "cpkHexColor": "#70D4FF",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 3,
+    "y": 9
   },
   {
     "atomicNumber": 58,
@@ -1445,9 +1559,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1803,
     "block": "f",
-    "cpkHexColor": "FFFFC7",
+    "cpkHexColor": "#FFFFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 4,
+    "y": 9
   },
   {
     "atomicNumber": 59,
@@ -1470,9 +1586,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1885,
     "block": "f",
-    "cpkHexColor": "D9FFC7",
+    "cpkHexColor": "#D9FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 5,
+    "y": 9
   },
   {
     "atomicNumber": 60,
@@ -1495,9 +1613,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1885,
     "block": "f",
-    "cpkHexColor": "C7FFC7",
+    "cpkHexColor": "#C7FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 6,
+    "y": 9
   },
   {
     "atomicNumber": 61,
@@ -1520,9 +1640,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1947,
     "block": "f",
-    "cpkHexColor": "A3FFC7",
+    "cpkHexColor": "#A3FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 7,
+    "y": 9
   },
   {
     "atomicNumber": 62,
@@ -1545,9 +1667,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1853,
     "block": "f",
-    "cpkHexColor": "8FFFC7",
+    "cpkHexColor": "#8FFFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 8,
+    "y": 9
   },
   {
     "atomicNumber": 63,
@@ -1570,9 +1694,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1901,
     "block": "f",
-    "cpkHexColor": "61FFC7",
+    "cpkHexColor": "#61FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 9,
+    "y": 9
   },
   {
     "atomicNumber": 64,
@@ -1595,9 +1721,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1880,
     "block": "f",
-    "cpkHexColor": "45FFC7",
+    "cpkHexColor": "#45FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 10,
+    "y": 9
   },
   {
     "atomicNumber": 65,
@@ -1620,9 +1748,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1843,
     "block": "f",
-    "cpkHexColor": "30FFC7",
+    "cpkHexColor": "#30FFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 11,
+    "y": 9
   },
   {
     "atomicNumber": 66,
@@ -1645,9 +1775,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1886,
     "block": "f",
-    "cpkHexColor": "1FFFC7",
+    "cpkHexColor": "#1FFFC7",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 12,
+    "y": 9
   },
   {
     "atomicNumber": 67,
@@ -1670,9 +1802,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1878,
     "block": "f",
-    "cpkHexColor": "00FF9C",
+    "cpkHexColor": "#00FF9C",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 13,
+    "y": 9
   },
   {
     "atomicNumber": 68,
@@ -1695,9 +1829,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1842,
     "block": "f",
-    "cpkHexColor": "0",
+    "cpkHexColor": "#0",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 14,
+    "y": 9
   },
   {
     "atomicNumber": 69,
@@ -1720,9 +1856,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1879,
     "block": "f",
-    "cpkHexColor": "00D452",
+    "cpkHexColor": "#00D452",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 15,
+    "y": 9
   },
   {
     "atomicNumber": 70,
@@ -1745,9 +1883,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1878,
     "block": "f",
-    "cpkHexColor": "00BF38",
+    "cpkHexColor": "#00BF38",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 16,
+    "y": 9
   },
   {
     "atomicNumber": 71,
@@ -1770,9 +1910,11 @@
     "groupBlock": "lanthanoid",
     "yearDiscovered": 1907,
     "block": "d",
-    "cpkHexColor": "00AB24",
+    "cpkHexColor": "#00AB24",
     "period": 6,
-    "group": 3
+    "group": 3,
+    "x": 17,
+    "y": 9
   },
   {
     "atomicNumber": 72,
@@ -1795,9 +1937,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1923,
     "block": "d",
-    "cpkHexColor": "4DC2FF",
+    "cpkHexColor": "#4DC2FF",
     "period": 6,
-    "group": 4
+    "group": 4,
+    "x": 4,
+    "y": 6
   },
   {
     "atomicNumber": 73,
@@ -1820,9 +1964,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1802,
     "block": "d",
-    "cpkHexColor": "4DA6FF",
+    "cpkHexColor": "#4DA6FF",
     "period": 6,
-    "group": 5
+    "group": 5,
+    "x": 5,
+    "y": 6
   },
   {
     "atomicNumber": 74,
@@ -1845,9 +1991,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1783,
     "block": "d",
-    "cpkHexColor": "2194D6",
+    "cpkHexColor": "#2194D6",
     "period": 6,
-    "group": 6
+    "group": 6,
+    "x": 6,
+    "y": 6
   },
   {
     "atomicNumber": 75,
@@ -1870,9 +2018,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1925,
     "block": "d",
-    "cpkHexColor": "267DAB",
+    "cpkHexColor": "#267DAB",
     "period": 6,
-    "group": 7
+    "group": 7,
+    "x": 7,
+    "y": 6
   },
   {
     "atomicNumber": 76,
@@ -1895,9 +2045,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1803,
     "block": "d",
-    "cpkHexColor": "266696",
+    "cpkHexColor": "#266696",
     "period": 6,
-    "group": 8
+    "group": 8,
+    "x": 8,
+    "y": 6
   },
   {
     "atomicNumber": 77,
@@ -1920,9 +2072,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1803,
     "block": "d",
-    "cpkHexColor": "175487",
+    "cpkHexColor": "#175487",
     "period": 6,
-    "group": 9
+    "group": 9,
+    "x": 9,
+    "y": 6
   },
   {
     "atomicNumber": 78,
@@ -1945,9 +2099,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "D0D0E0",
+    "cpkHexColor": "#D0D0E0",
     "period": 6,
-    "group": 10
+    "group": 10,
+    "x": 10,
+    "y": 6
   },
   {
     "atomicNumber": 79,
@@ -1970,9 +2126,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "FFD123",
+    "cpkHexColor": "#FFD123",
     "period": 6,
-    "group": 11
+    "group": 11,
+    "x": 11,
+    "y": 6
   },
   {
     "atomicNumber": 80,
@@ -1995,9 +2153,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": "Ancient",
     "block": "d",
-    "cpkHexColor": "B8B8D0",
+    "cpkHexColor": "#B8B8D0",
     "period": 6,
-    "group": 12
+    "group": 12,
+    "x": 12,
+    "y": 6
   },
   {
     "atomicNumber": 81,
@@ -2020,9 +2180,11 @@
     "groupBlock": "metal",
     "yearDiscovered": 1861,
     "block": "p",
-    "cpkHexColor": "A6544D",
+    "cpkHexColor": "#A6544D",
     "period": 6,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 6
   },
   {
     "atomicNumber": 82,
@@ -2045,9 +2207,11 @@
     "groupBlock": "metal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "575961",
+    "cpkHexColor": "#575961",
     "period": 6,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 6
   },
   {
     "atomicNumber": 83,
@@ -2070,9 +2234,11 @@
     "groupBlock": "metal",
     "yearDiscovered": "Ancient",
     "block": "p",
-    "cpkHexColor": "9E4FB5",
+    "cpkHexColor": "#9E4FB5",
     "period": 6,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 6
   },
   {
     "atomicNumber": 84,
@@ -2095,9 +2261,11 @@
     "groupBlock": "metalloid",
     "yearDiscovered": 1898,
     "block": "p",
-    "cpkHexColor": "AB5C00",
+    "cpkHexColor": "#AB5C00",
     "period": 6,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 6
   },
   {
     "atomicNumber": 85,
@@ -2120,9 +2288,11 @@
     "groupBlock": "halogen",
     "yearDiscovered": 1940,
     "block": "p",
-    "cpkHexColor": "754F45",
+    "cpkHexColor": "#754F45",
     "period": 6,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 6
   },
   {
     "atomicNumber": 86,
@@ -2145,9 +2315,11 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 1900,
     "block": "p",
-    "cpkHexColor": "428296",
+    "cpkHexColor": "#428296",
     "period": 6,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 6
   },
   {
     "atomicNumber": 87,
@@ -2170,9 +2342,11 @@
     "groupBlock": "alkali metal",
     "yearDiscovered": 1939,
     "block": "s",
-    "cpkHexColor": "420066",
+    "cpkHexColor": "#420066",
     "period": 7,
-    "group": 1
+    "group": 1,
+    "x": 1,
+    "y": 7
   },
   {
     "atomicNumber": 88,
@@ -2195,9 +2369,11 @@
     "groupBlock": "alkaline earth metal",
     "yearDiscovered": 1898,
     "block": "s",
-    "cpkHexColor": "007D00",
+    "cpkHexColor": "#007D00",
     "period": 7,
-    "group": 2
+    "group": 2,
+    "x": 2,
+    "y": 7
   },
   {
     "atomicNumber": 89,
@@ -2220,9 +2396,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1899,
     "block": "f",
-    "cpkHexColor": "70ABFA",
+    "cpkHexColor": "#70ABFA",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 3,
+    "y": 10
   },
   {
     "atomicNumber": 90,
@@ -2245,9 +2423,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1828,
     "block": "f",
-    "cpkHexColor": "00BAFF",
+    "cpkHexColor": "#00BAFF",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 4,
+    "y": 10
   },
   {
     "atomicNumber": 91,
@@ -2270,9 +2450,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1913,
     "block": "f",
-    "cpkHexColor": "00A1FF",
+    "cpkHexColor": "#00A1FF",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 5,
+    "y": 10
   },
   {
     "atomicNumber": 92,
@@ -2295,9 +2477,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1789,
     "block": "f",
-    "cpkHexColor": "008FFF",
+    "cpkHexColor": "#008FFF",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 6,
+    "y": 10
   },
   {
     "atomicNumber": 93,
@@ -2320,9 +2504,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1940,
     "block": "f",
-    "cpkHexColor": "0080FF",
+    "cpkHexColor": "#0080FF",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 7,
+    "y": 10
   },
   {
     "atomicNumber": 94,
@@ -2345,9 +2531,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1940,
     "block": "f",
-    "cpkHexColor": "006BFF",
+    "cpkHexColor": "#006BFF",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 8,
+    "y": 10
   },
   {
     "atomicNumber": 95,
@@ -2370,9 +2558,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1944,
     "block": "f",
-    "cpkHexColor": "545CF2",
+    "cpkHexColor": "#545CF2",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 9,
+    "y": 10
   },
   {
     "atomicNumber": 96,
@@ -2395,9 +2585,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1944,
     "block": "f",
-    "cpkHexColor": "785CE3",
+    "cpkHexColor": "#785CE3",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 10,
+    "y": 10
   },
   {
     "atomicNumber": 97,
@@ -2420,9 +2612,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1949,
     "block": "f",
-    "cpkHexColor": "8A4FE3",
+    "cpkHexColor": "#8A4FE3",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 11,
+    "y": 10
   },
   {
     "atomicNumber": 98,
@@ -2445,9 +2639,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1950,
     "block": "f",
-    "cpkHexColor": "A136D4",
+    "cpkHexColor": "#A136D4",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 12,
+    "y": 10
   },
   {
     "atomicNumber": 99,
@@ -2470,9 +2666,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1952,
     "block": "f",
-    "cpkHexColor": "B31FD4",
+    "cpkHexColor": "#B31FD4",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 13,
+    "y": 10
   },
   {
     "atomicNumber": 100,
@@ -2495,9 +2693,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1952,
     "block": "f",
-    "cpkHexColor": "B31FBA",
+    "cpkHexColor": "#B31FBA",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 14,
+    "y": 10
   },
   {
     "atomicNumber": 101,
@@ -2520,9 +2720,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1955,
     "block": "f",
-    "cpkHexColor": "B30DA6",
+    "cpkHexColor": "#B30DA6",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 15,
+    "y": 10
   },
   {
     "atomicNumber": 102,
@@ -2545,9 +2747,11 @@
     "groupBlock": "actinoid",
     "yearDiscovered": 1957,
     "block": "f",
-    "cpkHexColor": "BD0D87",
+    "cpkHexColor": "#BD0D87",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 16,
+    "y": 10
   },
   {
     "atomicNumber": 103,
@@ -2570,9 +2774,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1961,
     "block": "d",
-    "cpkHexColor": "C70066",
+    "cpkHexColor": "#C70066",
     "period": 7,
-    "group": 3
+    "group": 3,
+    "x": 17,
+    "y": 10
   },
   {
     "atomicNumber": 104,
@@ -2595,9 +2801,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1969,
     "block": "d",
-    "cpkHexColor": "CC0059",
+    "cpkHexColor": "#CC0059",
     "period": 7,
-    "group": 4
+    "group": 4,
+    "x": 4,
+    "y": 7
   },
   {
     "atomicNumber": 105,
@@ -2620,9 +2828,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1967,
     "block": "d",
-    "cpkHexColor": "D1004F",
+    "cpkHexColor": "#D1004F",
     "period": 7,
-    "group": 5
+    "group": 5,
+    "x": 5,
+    "y": 7
   },
   {
     "atomicNumber": 106,
@@ -2645,9 +2855,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1974,
     "block": "d",
-    "cpkHexColor": "D90045",
+    "cpkHexColor": "#D90045",
     "period": 7,
-    "group": 6
+    "group": 6,
+    "x": 6,
+    "y": 7
   },
   {
     "atomicNumber": 107,
@@ -2670,9 +2882,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1976,
     "block": "d",
-    "cpkHexColor": "E00038",
+    "cpkHexColor": "#E00038",
     "period": 7,
-    "group": 7
+    "group": 7,
+    "x": 7,
+    "y": 7
   },
   {
     "atomicNumber": 108,
@@ -2695,9 +2909,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1984,
     "block": "d",
-    "cpkHexColor": "E6002E",
+    "cpkHexColor": "#E6002E",
     "period": 7,
-    "group": 8
+    "group": 8,
+    "x": 8,
+    "y": 7
   },
   {
     "atomicNumber": 109,
@@ -2720,9 +2936,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1982,
     "block": "d",
-    "cpkHexColor": "EB0026",
+    "cpkHexColor": "#EB0026",
     "period": 7,
-    "group": 9
+    "group": 9,
+    "x": 9,
+    "y": 7
   },
   {
     "atomicNumber": 110,
@@ -2745,9 +2963,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1994,
     "block": "d",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 10
+    "group": 10,
+    "x": 10,
+    "y": 7
   },
   {
     "atomicNumber": 111,
@@ -2770,9 +2990,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1994,
     "block": "d",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 11
+    "group": 11,
+    "x": 11,
+    "y": 7
   },
   {
     "atomicNumber": 112,
@@ -2795,9 +3017,11 @@
     "groupBlock": "transition metal",
     "yearDiscovered": 1996,
     "block": "d",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 12
+    "group": 12,
+    "x": 12,
+    "y": 7
   },
   {
     "atomicNumber": 113,
@@ -2820,9 +3044,11 @@
     "groupBlock": "post-transition metal",
     "yearDiscovered": 2003,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 13
+    "group": 13,
+    "x": 13,
+    "y": 7
   },
   {
     "atomicNumber": 114,
@@ -2845,9 +3071,11 @@
     "groupBlock": "post-transition metal",
     "yearDiscovered": 1998,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 14
+    "group": 14,
+    "x": 14,
+    "y": 7
   },
   {
     "atomicNumber": 115,
@@ -2870,9 +3098,11 @@
     "groupBlock": "post-transition metal",
     "yearDiscovered": 2003,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 15
+    "group": 15,
+    "x": 15,
+    "y": 7
   },
   {
     "atomicNumber": 116,
@@ -2895,9 +3125,11 @@
     "groupBlock": "post-transition metal",
     "yearDiscovered": 2000,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 16
+    "group": 16,
+    "x": 16,
+    "y": 7
   },
   {
     "atomicNumber": 117,
@@ -2920,9 +3152,11 @@
     "groupBlock": "post-transition metal",
     "yearDiscovered": 2010,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 17
+    "group": 17,
+    "x": 17,
+    "y": 7
   },
   {
     "atomicNumber": 118,
@@ -2945,8 +3179,10 @@
     "groupBlock": "noble gas",
     "yearDiscovered": 2002,
     "block": "p",
-    "cpkHexColor": "unknown",
+    "cpkHexColor": "#unknown",
     "period": 7,
-    "group": 18
+    "group": 18,
+    "x": 18,
+    "y": 7
   }
 ]
