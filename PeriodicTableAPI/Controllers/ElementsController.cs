@@ -16,12 +16,5 @@ namespace PeriodicTableAPI.Controllers
             return System.IO.File.ReadAllText("data/elements.json");
             //return new string[] { "value1", "value2" };
         }
-
-        // GET api/<ValuesController>/5
-        [HttpGet("{id}")]
-        public IEnumerable<string> Get(int id)
-        {
-            return new string[] { $"value{id}" };
-        }
     }
 }
